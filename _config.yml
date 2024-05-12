@@ -7,8 +7,7 @@
 #remote_theme: pages-themes/midnight@v0.2.0
 # theme: Minima
 # remote_theme: pages-themes/minimal@v0.2.0
-remote_theme: pages-themes/modernist@v0.2.0
-# theme: Modernist
-# theme: Slate
+#remote_theme: pages-themes/modernist@v0.2.0
+remote_theme: pages-themes/slate@v0.2.0
 # theme: Tactile
 # theme: Time machine
