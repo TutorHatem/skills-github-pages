@@ -1,6 +1,6 @@
 # remote_theme: pages-themes/architect@v0.2.0
-remote_theme: pages-themes/cayman@v0.2.0
-# theme: Dinky
+# remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/dinky@v0.2.0
 # theme: Hacker
 # theme: Leap day
 # theme: Merlot
