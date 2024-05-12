@@ -1,5 +1,5 @@
 ---
-title: This is afree osting on GitHub
+title: This is a *free* hosting on GitHub
 ---
 # This is Header 1
 ## This is header 2
