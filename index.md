@@ -1,5 +1,5 @@
 ---
-title: This is a <span style="color:green">*free*</span> hosting on GitHub
+title: This is a free hosting on GitHub
 ---
 # This is Header 1
 ## This is header 2
